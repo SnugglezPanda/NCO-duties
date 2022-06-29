@@ -1,6 +1,6 @@
-# NCO TO DO LIST
+# COUNSELING PACKET CHECKLIST
 
-## SPC COOK COUNSEL PACKET CHECKLIST
+## SPC COOK COUNSEL PACKET
 
 | <strong>Counseling packet</strong>    | <strong>Mark</strong> |
 |-------------------------------------- | --------------------- |
@@ -36,7 +36,7 @@
 ------------------------------------------------------------------------------------------------------
 
 
-## SPC ACOSTA COUNSEL PACKET CHECKLIST
+## SPC ACOSTA COUNSEL PACKET
 
 | <strong>Counseling packet</strong>    | <strong>Mark</strong> |
 |-------------------------------------- | --------------------- |
